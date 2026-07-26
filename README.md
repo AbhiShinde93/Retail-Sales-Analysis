@@ -145,7 +145,9 @@ The project consists of **three interactive Power BI dashboard pages**, each des
 
 ## 📈 Dashboard 1 – Executive Sales Overview
 
-![Executive Dashboard](Dashboard_Page1.png.png)
+![Dashboard 1](Images/Dashboard_Page1.png)
+
+
 
 
 
@@ -166,7 +168,9 @@ The project consists of **three interactive Power BI dashboard pages**, each des
 
 ## 👥 Dashboard 2 – Customer & Shipping Analysis
 
-![Customer Dashboard](Dashboard_Page2.png.png)
+![Dashboard 2](Images/Dashboard_Page2.png)
+
+
 
 
 
@@ -185,7 +189,7 @@ The project consists of **three interactive Power BI dashboard pages**, each des
 
 ## 📦 Dashboard 3 – Product & Profitability Analysis
 
-![Product Dashboard](Dashboard_Page3.png.png)
+![Dashboard 3](Images/Dashboard_Page3.png)
 
 ### Key Highlights
 
