@@ -517,10 +517,10 @@ Final-Year Computer Science Engineering Student with a strong interest in Data A
 
 This project reflects my ability to work across the complete analytics workflow—from raw data preparation and SQL analysis to building interactive dashboards that communicate meaningful business insights.
 
-### Connect with Me
+## 🤝 Connect with Me
 
-- **GitHub:** https://github.com/AbhiShinde93
-- **LinkedIn:** linkedin.com/in/abhishekshinde9395
+- **GitHub:** [AbhiShinde93](https://github.com/AbhiShinde93)
+- **LinkedIn:** [Abhishek Shinde](https://www.linkedin.com/in/abhishekshinde9395/)
 
 ---
 
