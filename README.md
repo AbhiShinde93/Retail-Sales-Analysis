@@ -139,7 +139,7 @@ Retail-Sales-and-Profit-Analysis/
 
 The project consists of **three interactive Power BI dashboard pages**, each designed to answer key business questions and provide actionable insights into retail business performance.
 
-> **Note:** Replace the image paths below with your dashboard screenshots after uploading them to the **Images** folder.
+
 
 ---
 
